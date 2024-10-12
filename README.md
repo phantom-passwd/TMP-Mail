@@ -72,4 +72,6 @@ For any questions or inquiries, feel free to reach out via Discord:
 - DM >> phantoms_._
 
 ---
-😄
+😄 BTC >> bc1q25q4dlp98ym8g32uyhf9elazcgv4rltqggzm20
+
+😄 ETH >> 0xAb916211C1ebd0475CC5ae2ad20a46AFe4C7e89F
