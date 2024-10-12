@@ -2,7 +2,7 @@
 
 A Python module for generating temporary email addresses and fetching emails using Selenium and requests. This module can be used to extract important links , useful for services like Steam.
 
-[###############¤¤¤¤¤] 70 % end
+[####################] 70 % end
 
 ## Features ✨
 - Generate temporary email addresses.
