@@ -14,7 +14,7 @@ A Python module for generating temporary email addresses and fetching emails usi
 1. Clone the repository:
     ```bash
     git clone https://github.com/phantom-passwd/TMP-Mail.git
-    cd temp-mail-gen
+    cd TMP-Mail
     ```
 
 2. Create a virtual environment and activate it:
