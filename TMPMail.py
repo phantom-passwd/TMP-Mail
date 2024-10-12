@@ -24,7 +24,7 @@ class TempMailGEN:
 
         try:
             driver.get("https://temp-mail.io/fr")
-            WebDriverWait(driver, 10).until(
+            WebDriverWait(driver, 50).until(
                 EC.visibility_of_element_located((By.ID, "email"))
             )
 
