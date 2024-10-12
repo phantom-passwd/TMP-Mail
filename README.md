@@ -55,7 +55,7 @@ Create a `config.json` file in the root directory with the following content (or
 
 2. Run the script:
     ```bash
-    python TMP-Mail.py
+    python TMPMail.py
     ```
 
 ## License 📄
