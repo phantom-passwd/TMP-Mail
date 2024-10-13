@@ -41,7 +41,7 @@ class TempMailGEN:
     @staticmethod
     def search(frome, msg):
         if 'Steam' in frome:
-            url_pattern = r'https://store\.steampowered\.com/account\S*'
+            url_pattern = r'https://store\.steampowered\.com\S*'
             match = re.search(url_pattern, msg)
             if match:
                 extracted_url = match.group(0)
